@@ -34,6 +34,11 @@ img {
     margin: 0 auto;
 }
 
+img:hover {
+    background-color: #a3ccdbc8;
+    transition-duration: 2s;
+}
+
 @media (max-width: 1180px) {
     h1 {
         font-size: 2em;
